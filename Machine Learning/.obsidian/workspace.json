@@ -4,77 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "80636501f0c9aa18",
+        "id": "0c61cdcef1af4444",
         "type": "tabs",
         "children": [
           {
-            "id": "8349bd60cb9d1d89",
+            "id": "e6bda16f45ce8172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Main Notes/5.5.2 Power Transformer.md",
+                "file": "4-Main Notes/5.8.7 Missing Indicator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.5.2 Power Transformer"
+              "title": "5.8.7 Missing Indicator"
             }
           },
           {
-            "id": "68341be224b01f67",
+            "id": "5812edd5f205e1fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Main Notes/5.6.3 Binarization.md",
+                "file": "4-Main Notes/5.8.8 Automatically Select Imputer Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.6.3 Binarization"
+              "title": "5.8.8 Automatically Select Imputer Parameters"
             }
           },
           {
-            "id": "c0c5dcf65943ae81",
+            "id": "1a88a76ce363b5f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Main Notes/5.7.1 Handling Mixed variables.md",
+                "file": "4-Main Notes/5.8.9 KNN Imputer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.7.1 Handling Mixed variables"
+              "title": "5.8.9 KNN Imputer"
             }
           },
           {
-            "id": "e785a7bf1a040e94",
+            "id": "57ef605d576e4a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Main Notes/5.7.2 Handling Date and Time Variables.md",
+                "file": "4-Main Notes/5.8.10 Iterative Imputer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.7.2 Handling Date and Time Variables"
-            }
-          },
-          {
-            "id": "4ea1ab084b6a7674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Main Notes/5.6.3 Binarization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.6.3 Binarization"
+              "title": "5.8.10 Iterative Imputer"
             }
           }
         ],
@@ -219,24 +205,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e785a7bf1a040e94",
+  "active": "57ef605d576e4a35",
   "lastOpenFiles": [
-    "4-Main Notes/5.7.1 Handling Mixed variables.md",
+    "4-Main Notes/5.8.9 KNN Imputer.md",
+    "4-Main Notes/5.8.10 Iterative Imputer.md",
+    "4-Main Notes/5.8.8 Automatically Select Imputer Parameters.md",
+    "automatically-select-imputer-parameters.ipynb",
+    "4-Main Notes/5.8.7 Missing Indicator.md",
+    "missing-indicator.ipynb",
+    "4-Main Notes/5.8.6 Random Sample Imputation.md",
+    "random-sample-imputation 1.ipynb",
+    "random-sample-imputation.ipynb",
+    "4-Main Notes/5.8.5 Missing Category Data.md",
+    "4-Main Notes/5.8.4 Mean Median Imputation.md",
+    "4-Main Notes/5.8.3 Arbitrary Value Imputation.md",
+    "4-Main Notes/5.8.2 Complete Case Analysis.md",
+    "4-Main Notes/5.8.1 Missing Value Full Theory.md",
+    "4-Main Notes/5.6.3 Binarization.md",
     "4-Main Notes/5.7.2 Handling Date and Time Variables.md",
+    "4-Main Notes/5.7.1 Handling Mixed variables.md",
+    "4-Main Notes/5.5.2 Power Transformer.md",
+    "5-Assets/Pasted image 20250130012138.png",
+    "5-Assets/Pasted image 20250130012130.png",
+    "5-Assets/Pasted image 20250130012112.png",
+    "5-Assets/Pasted image 20250130011946.png",
+    "5-Assets/Pasted image 20250130011936.png",
+    "5-Assets/Pasted image 20250130011922.png",
+    "5-Assets/Pasted image 20250130011908.png",
+    "5-Assets/Pasted image 20250130011839.png",
+    "5-Assets/Pasted image 20250130011812.png",
+    "5-Assets/Pasted image 20250130011745.png",
+    "4-Main Notes/5.5.1 Function Transformers.md",
+    "4-Main Notes/Patent.md",
     "4-Main Notes/5.6.1 Binning - Theory.md",
     "4-Main Notes/5.6.2 Binning Code.md",
-    "5-Assets/Pasted image 20250128201120.png",
-    "Pasted image 20250128203723.png",
-    "5-Assets/Pasted image 20250128203656.png",
-    "5-Assets/Pasted image 20250128203636.png",
-    "5-Assets/Pasted image 20250128203613.png",
-    "4-Main Notes/5.6.3 Binarization.md",
-    "5-Assets/Pasted image 20250128202632.png",
-    "5-Assets/Pasted image 20250128202525.png",
-    "5-Assets/Pasted image 20250128202523.png",
-    "5-Assets/Pasted image 20250128202515.png",
-    "4-Main Notes/5.5.2 Power Transformer.md",
-    "4-Main Notes/5.5.1 Function Transformers.md",
     "4-Main Notes/5.4 Machine Learning Pipelines.md",
     "4-Main Notes/5.3 Column Transformer - Sklearn.md",
     "4-Main Notes/5.2.2  One Hot Encoding.md",
@@ -245,27 +247,11 @@
     "4-Main Notes/5.1.2 Feature Scaling - Normalization.md",
     "4-Main Notes/5.1.1 Feature Scaling - Standardization.md",
     "4-Main Notes/5. Feature Engineering.md",
-    "4-Main Notes/4.2 Bivariate Analysis.md",
-    "4-Main Notes/4.1.1 Interquartile Range (IQR).md",
-    "4-Main Notes/4.1 Univariate Analysis.md",
-    "4-Main Notes/3. Understanding Your Data.md",
-    "4-Main Notes/2. Working with CSV.md",
-    "4-Main Notes/1. Data Gathering.md",
-    "5-Assets/asdasd.png",
-    "4-Main Notes/Patent.md",
-    "Vim Movement.md",
-    "4-Main Notes/0. ML Schedule.md",
-    "Welcome.md",
-    "Untitled.md",
     "test.py",
     "5-Assets",
     "1-Tags/Web Development tags",
     "1-Tags/AIML Tags",
     "4-Main Notes/Language Basics",
-    "4-Main Notes/AIML",
-    "4-Main Notes/Web Development",
-    "4-Main Notes",
-    "3-Templates",
-    "2-Indexs"
+    "4-Main Notes/AIML"
   ]
 }
