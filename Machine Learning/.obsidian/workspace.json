@@ -4,49 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e67ede987d335036",
+        "id": "406aa954fd00cd07",
         "type": "tabs",
         "children": [
           {
-            "id": "ba07ae15ad3674ba",
+            "id": "e1975580fc01e7d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Main Notes/5.13.1 Principle Component Analysis.md",
+                "file": "4-Main Notes/4.1.1 Interquartile Range (IQR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.13.1 Principle Component Analysis"
+              "title": "4.1.1 Interquartile Range (IQR)"
             }
           },
           {
-            "id": "6b24cd9d16de7705",
+            "id": "9cb06a4a99d969e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "4-Main Notes/5.13.2 When can PCA not be used.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.7"
               },
-              "icon": "lucide-file",
-              "title": "5.13.2 When can PCA not be used"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           },
           {
-            "id": "f575cf73f7f5aac0",
+            "id": "2ca8c420edf544a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Main Notes/5.13.3 PCA Code.md",
+                "file": "4-Main Notes/6.6 Bias Variance Tradeoff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.13.3 PCA Code"
+              "title": "6.6 Bias Variance Tradeoff"
             }
           }
         ],
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Main Notes/5.13.3 PCA Code.md",
+                "file": "4-Main Notes/6.6 Bias Variance Tradeoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5.13.3 PCA Code"
+              "title": "Backlinks for 6.6 Bias Variance Tradeoff"
             }
           },
           {
@@ -142,12 +140,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Main Notes/5.13.3 PCA Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5.13.3 PCA Code"
+              "title": "Outgoing links"
             }
           },
           {
@@ -188,37 +185,44 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "f575cf73f7f5aac0",
+  "active": "2ca8c420edf544a4",
   "lastOpenFiles": [
-    "4-Main Notes/5.13.2 When can PCA not be used.md",
-    "4-Main Notes/5.13.1 Principle Component Analysis.md",
-    "4-Main Notes/5.12 Curse of Dimensionality.md",
-    "4-Main Notes/5.11 Feature Spliting.md",
-    "4-Main Notes/5.13.3 PCA Code.md",
-    "4-Main Notes/5.9.3 Outlier Removal Using IQR Method.md",
-    "4-Main Notes/5.5.1 Function Transformers.md",
-    "4-Main Notes/5.8.4 Mean Median Imputation.md",
-    "4-Main Notes/5.8.5 Missing Category Data.md",
-    "4-Main Notes/5.8.10 Iterative Imputer.md",
-    "4-Main Notes/5.9.4 Outlier removal using Visualization.md",
-    "4-Main Notes/5.9.5 Outlier Detection and removal using Percentiles.md",
-    "4-Main Notes/5.8.2 Complete Case Analysis.md",
-    "4-Main Notes/5.8.3 Arbitrary Value Imputation.md",
-    "4-Main Notes/4.1 Univariate Analysis.md",
-    "4-Main Notes/3. Understanding Your Data.md",
-    "4-Main Notes/2. Working with CSV.md",
-    "4-Main Notes/5. Feature Engineering.md",
-    "4-Main Notes/5.1.1 Feature Scaling - Standardization.md",
-    "4-Main Notes/5.3 Column Transformer - Sklearn.md",
-    "Vim Movement.md",
-    "4-Main Notes/5.2.2  One Hot Encoding.md",
-    "4-Main Notes/5.8.9 KNN Imputer.md",
-    "4-Main Notes/4.2 Bivariate Analysis.md",
+    "4-Main Notes/6.7 Ridge Regression.md",
+    "4-Main Notes/6.8 Lasso Regression.md",
+    "4-Main Notes/6.10 Logistic Regression.md",
+    "4-Main Notes/6.9 Elastic Net Regression.md",
     "4-Main Notes/4.1.1 Interquartile Range (IQR).md",
-    "4-Main Notes/1. Data Gathering.md",
+    "4-Main Notes/4.1 Univariate Analysis.md",
+    "4-Main Notes/5.9.5 Outlier Detection and removal using Percentiles.md",
+    "4-Main Notes/5.9.4 Outlier removal using Visualization.md",
+    "4-Main Notes/5.9.3 Outlier Removal Using IQR Method.md",
+    "4-Main Notes/5.9.2 Outlier Removal Using Z-Score.md",
+    "4-Main Notes/5.9.1 Outliers Theory.md",
+    "4-Main Notes/5.2.1  Ordinal and Label Encoding.md",
+    "4-Main Notes/5.2.2  One Hot Encoding.md",
+    "4-Main Notes/5.1.2 Feature Scaling - Normalization.md",
+    "4-Main Notes/6.1 Regression.md",
+    "4-Main Notes/6.6 Bias Variance Tradeoff.md",
+    "4-Main Notes/6.5 Polynomial Regression.md",
+    "4-Main Notes/6.4 Gradient Descent.md",
+    "4-Main Notes/6.3 Multiple Linear Regression.md",
+    "Untitled.md",
+    "4-Main Notes/5.6.3 Binarization.md",
+    "Untitled.canvas",
+    "4-Main Notes/6.2.2 Simple Linear Regression Code.md",
+    "4-Main Notes/6.2.1 Mathematics behind Simple Linear Regression.md",
+    "1-Tags/Algorithm.md",
+    "Methodology.md",
+    "1-Tags/Regression.md",
+    "5-Assets/Pasted image 20250205145946.png",
+    "5-Assets/Pasted image 20250205145909.png",
+    "5-Assets/Pasted image 20250205145849.png",
+    "5-Assets/Pasted image 20250205145810.png",
+    "5-Assets/Pasted image 20250205145758.png",
     "5-Assets/asdasd.png",
     "4.2 - ML Basics",
     "automatically-select-imputer-parameters.ipynb",
@@ -229,11 +233,6 @@
     "5-Assets/Pasted image 20250130012130.png",
     "5-Assets/Pasted image 20250130012112.png",
     "5-Assets/Pasted image 20250130011946.png",
-    "5-Assets/Pasted image 20250130011936.png",
-    "5-Assets/Pasted image 20250130011922.png",
-    "5-Assets/Pasted image 20250130011908.png",
-    "5-Assets/Pasted image 20250130011839.png",
-    "5-Assets/Pasted image 20250130011812.png",
     "test.py",
     "5-Assets",
     "1-Tags/Web Development tags",
